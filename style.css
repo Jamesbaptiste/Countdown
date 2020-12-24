@@ -25,8 +25,8 @@ body {
 }
 
 .main {
-  font-weight: normal;
-  font-size: 2rem;
+  font-weight: bold;
+  font-size: calc(10px + 2vw);
   margin-top: -12rem;
   line-height: 1;
   text-align: center;
@@ -34,7 +34,7 @@ body {
 
 .big-text {
   font-weight: normal;
-  font-size: 8rem;
+  font-size: calc(2rem + 2vw);
   line-height: 1;
   margin: 1rem 2rem;
 }
